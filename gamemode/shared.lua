@@ -1,12 +1,14 @@
-GM.Name = "roleplayer"
-GM.Author = "BillGates and condom"
+GM.Name = "Roleplayer"
+GM.Author = "BillGates"
 GM.Email = "N/A"
 GM.Website = "N/A"
 
-/*team.SetUp( 0, "Citizen", Color(0, 255, 0) )
-team.SetUp( 1, "Police Officer", Color(0, 0, 255) )
-team.SetUp( 2, "Mayor", Color(255, 0, 0) )*/
 
+/*
+Not sure if this is needed it works with only the settings in player.lua
+team.SetUp( 0, "Blue", Color(0, 0, 255) )
+team.SetUp( 1, "Red", Color(255, 0, 0) )
+*/
 
 function GM:Initialize()
 	self.BaseClass.Initialize( self )

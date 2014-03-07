@@ -1,11 +1,12 @@
-"roleplayer"
+"Gamemode"
 {
-	"base"		"sandbox"
-	"title"		"roleplayer"
+	"base"		"base"
+	"title"		"test123"
 	"maps"		"^rp_"
 	"menusystem"	"1"
+	"workshopid"	""
+	
 	"settings"
 	{
-		
 	}
 }
