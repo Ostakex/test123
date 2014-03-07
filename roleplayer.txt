@@ -1,0 +1,11 @@
+"roleplayer"
+{
+	"base"		"sandbox"
+	"title"		"roleplayer"
+	"maps"		"^rp_"
+	"menusystem"	"1"
+	"settings"
+	{
+		
+	}
+}
